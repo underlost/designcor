@@ -1,0 +1,11 @@
+/*
+Theme Name: Designcor
+Theme URI: http://underlost.net
+Description: Wordpress theme for Desincor.com
+Version: 1.0
+Author: Tyler Rilling
+Author URI: http://underlost.net
+*/
+
+@import "css/bootstrap.min.css";
+@import "css/layout.css";
